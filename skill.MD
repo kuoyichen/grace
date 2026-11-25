@@ -77,7 +77,7 @@
 - `fruit → it` 和複數水果 `apples → them`。
 - `walk around the campus` 及自然搭配詞。
 
-## 下一堂課的接續點（務必先看）
+## 舊接續點（Day 3 早餐題已完成；最新接續點見文末）
 
 學員已明確表示當天疲倦，希望把以下早餐對話題留到下次：
 **What did you have for breakfast this morning?**
@@ -103,3 +103,16 @@
 - **待複習**：
 - **下次接續點**：
 - **教學注意事項**：
+
+
+### 2026-11-25｜Day 3｜早餐、飲食習慣
+- **狀態**：完成早餐對話兩題及三道翻譯練習；學員主動要求下課，停止新內容。
+- **學員原句**：I had oats meal and a boiled egg for breakfast. I also drank a cup of black soybean milk. I tried to add some corn and duck floss into my oats meal. It was surprisingly delicious. What a good try.
+- **修正**：oatmeal；tried adding some corn and duck floss to my oatmeal（嘗試方法，區別 try to do）；I'm glad I tried it! 更符合語境。It was surprisingly delicious. 完全正確。
+- **練習一**：Yesterday, I tried adding some soy milk to coffee. It was surprisingly good. 正確；my coffee 可更貼近語境。
+- **學員原句**：I usually have a boiled egg, a bowl of oatmeal and a cup of soymilk for breakfast. Sometimes I like to have a steamed meat bun instead of oatmeal. I enjoy trying different kinds of food for my breakfast.
+- **批改**：三句文法正確；soy milk、for breakfast 為較自然寫法。soymilk 亦可。已能運用 usually、sometimes、份量、instead of、enjoy + V-ing。
+- **練習二、三**：Yesterday, I drank black tea instead of coffee. / I like cooking at home instead of eating out. 均正確。補充 prefer cooking at home to eating out 僅供認識。
+- **待複習**：try doing / try to do、add A to B、instead of + 名詞或 V-ing；先前五題複習仍未收到作答。
+- **下次接續點（Day 4）**：先簡短複習，接續今天尚未作答的 Question 3：Do you enjoy cooking? What dishes are you good at making? 提示 I'm good at making ... / My family really likes ...；be good at + V-ing。不要記為已完成。
+- **教學注意事項**：學員要求今天到此為止，無額外作業。
